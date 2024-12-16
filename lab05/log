@@ -1,0 +1,32 @@
+stdout: command not found
+total 4
+-rw-rw-r-- 1 dimivage dimivage 26 Dec 16 12:31 log
+log
+/home/dimivage/lab05
+stat: cannot stat 'example1.c': No such file or directory
+stat: cannot stat 'example1.c': No such file or directory
+  File: example1.c
+  Size: 485       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 407714      Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1332/dimivage)   Gid: ( 1334/dimivage)
+Access: 2024-12-16 12:37:22.093397201 +0200
+Modify: 2024-12-16 12:37:22.093397201 +0200
+Change: 2024-12-16 12:37:22.093397201 +0200
+ Birth: -
+./exampleNEW1.c
+stdout: command not found
+total 4
+-rw-rw-r-- 1 dimivage dimivage 26 Dec 16 12:31 log
+log
+/home/dimivage/lab05
+stat: cannot stat 'example1.c': No such file or directory
+stat: cannot stat 'example1.c': No such file or directory
+  File: example1.c
+  Size: 485       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 407714      Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1332/dimivage)   Gid: ( 1334/dimivage)
+Access: 2024-12-16 12:37:22.093397201 +0200
+Modify: 2024-12-16 12:37:22.093397201 +0200
+Change: 2024-12-16 12:37:22.093397201 +0200
+ Birth: -
+./exampleNEW1.c
